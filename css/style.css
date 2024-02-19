@@ -1,0 +1,31 @@
+.raleway{
+    font-family: "Raleway", sans-serif;
+}
+.primary {
+    color: rgb(29, 209, 0);
+}
+.inter{
+    font-family: "Inter", sans-serif;
+}
+.secondary{
+    color: #03071299;
+}
+.newbg{
+    background:rgb(29, 209, 0);
+}
+
+
+/* javascript set this style  */
+.setDivitionStyle{
+    display: flex;
+    font-family: "Inter", sans-serif;
+    color: #03071299;
+    justify-content: space-between;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+.elemOne{
+    font-weight: 700;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+}
